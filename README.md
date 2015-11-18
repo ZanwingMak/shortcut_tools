@@ -136,19 +136,19 @@ API：http://apistore.baidu.com/apiworks/servicedetail/472.html
 
 13、调用系统自带功能
 
-![image](http://i5.tietuku.com/03ea4554b8941de8.png)
+![image](http://b.hiphotos.baidu.com/image/pic/item/7aec54e736d12f2ea8ccf08c49c2d56284356814.jpg)
 
 方便了一些记不住Win+R的同学，轻松打开系统自带程序。
 
 14、个人推荐程序
 
-![image](http://i5.tietuku.com/00aa8564cb9f5730.png)
+![image](http://e.hiphotos.baidu.com/image/pic/item/91ef76c6a7efce1b81d29626a951f3deb58f6564.jpg)
 
 个人觉得挺好用的小工具，反正也不大，而且挺实用的。
 
 15、聊天室
 
-![image](http://i5.tietuku.com/97d2e407a081b568.png)
+![image](http://g.hiphotos.baidu.com/image/pic/item/fd039245d688d43fd904cf1e7b1ed21b0ff43ba8.jpg)
 
 一个小型且简陋的聊天室，使用的是PyQt里的QtNetwork库。
 
@@ -156,4 +156,4 @@ API：http://apistore.baidu.com/apiworks/servicedetail/472.html
 
 16、关于
 
-![image](http://i5.tietuku.com/bde3e3a9b4f7a93b.png)
+![image](http://e.hiphotos.baidu.com/image/pic/item/a686c9177f3e670985c61b133dc79f3df9dc5513.jpg)
