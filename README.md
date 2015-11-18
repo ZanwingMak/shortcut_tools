@@ -1,13 +1,10 @@
 # shortcut_tools
 shortcut tools  多功能快捷工具箱
+【EXE、源码打包】链接: http://pan.baidu.com/s/1kT3xI7t 密码: 2wd5
 
 ![image](http://a.hiphotos.baidu.com/image/pic/item/8cb1cb1349540923edee3d929458d109b2de4952.jpg)
 
 本程序分4块：个人编写的小工具、系统自带程序快捷启动、个人推荐的小软件、聊天室。工具箱应该首先实现的是常用的一般性小工具，不弄鸡肋的功能，所以需要自己实现的功能有：快递查询、手机号码归属地查询、空间自动点赞工具、有道翻译、邮件远程指令功能、系统信息查看、截图、城市天气查询、智能应答机器人、二维码生成、网址安全检测、后台监听功能。
-
-【EXE、源码打包】链接: http://pan.baidu.com/s/1kT3xI7t 密码: 2wd5
-
-查看所有源码：http://12450.xyz/code/shortcut_tools_code.txt
 
 【功能介绍】
 
