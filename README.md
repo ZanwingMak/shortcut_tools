@@ -1,5 +1,6 @@
 # shortcut_tools
 shortcut tools  多功能快捷工具箱
+具体介绍：	https://gfwboom.com/go/bysj
 【EXE、源码打包】链接: http://pan.baidu.com/s/1kT3xI7t 密码: 2wd5
 
 ![image](http://a.hiphotos.baidu.com/image/pic/item/8cb1cb1349540923edee3d929458d109b2de4952.jpg)
