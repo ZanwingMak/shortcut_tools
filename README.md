@@ -1,7 +1,7 @@
 # shortcut_tools
 shortcut tools  多功能快捷工具箱
 
-具体(视频)介绍：	https://gfwboom.com/go/bysj
+具体(视频)介绍：	https://laji.blog/go/bysj
 
 【EXE、源码打包】链接: http://pan.baidu.com/s/1kT3xI7t 密码: 2wd5
 
